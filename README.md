@@ -137,5 +137,5 @@ D: Default, KO: Known object.
 CMFN is released under the MIT license. See [LICENSE](./LICENSE) for additional details.
 
 ## Acknowledge
-Some of the codes are built upon [Gen-vlkt](https://github.com/YueLiao/gen-vlkt), [DETR](https://github.com/facebookresearch/detr), and [PVIC](https://github.com/fredzzhang/pvic). Thanks them for their great works!
+Some of the codes are built upon [CDN](https://github.com/YueLiao/CDN),[Gen-vlkt](https://github.com/YueLiao/gen-vlkt), and [DETR](https://github.com/facebookresearch/detr). Thanks them for their great works!
 
