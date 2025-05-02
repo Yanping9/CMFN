@@ -1,6 +1,6 @@
 # CMFN: instructive queries and consistent predictions for human-object interaction detection
 
-Code for our paper **"*CMFN: instructive queries and consistent predictions for human-object interaction detection*"**. The paper is currently being submitted to **"*Machine Vision and Applications*"**.
+Code for our paper **"*CMFN: instructive queries and consistent predictions for human-object interaction detection*"**. The paper is currently being submitted to **"*Pattern Analysis and Applications*"**.
 
 Contributed by Wei Yan, Xue-song Tang*, Yubing Li, Kuangrong Hao, and Zhiqi Wang.
 
